@@ -4,6 +4,7 @@ Flask-Babel
 Flask-WTF
 Flask-Session
 Flask-Caching
+Flask_migrate
 SQLAlchemy
 Jinja2
 Werkzeug
