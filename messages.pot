@@ -1,0 +1,230 @@
+# Translations template for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-05-25 00:24+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: forms.py:16 templates/dashboard.html:10 templates/register.html:21
+msgid "Email"
+msgstr ""
+
+#: forms.py:17 templates/register.html:29
+msgid "Password"
+msgstr ""
+
+#: forms.py:18 templates/layout.html:24 templates/login.html:3
+msgid "Login"
+msgstr ""
+
+#: ajax/enroll.py:10 ajax/enroll.py:32 api/__init__.py:10
+msgid "Please login first."
+msgstr ""
+
+#: ajax/enroll.py:18 ajax/enroll.py:40
+msgid "Course not found."
+msgstr ""
+
+#: ajax/enroll.py:22
+msgid "You are already enrolled in this course."
+msgstr ""
+
+#: ajax/enroll.py:27
+msgid "Successfully enrolled in the course."
+msgstr ""
+
+#: ajax/enroll.py:44
+msgid "You are not enrolled in this course."
+msgstr ""
+
+#: ajax/enroll.py:48
+msgid "Successfully unenrolled from the course."
+msgstr ""
+
+#: templates/courses.html:2
+msgid "Available Courses - LearnHub"
+msgstr ""
+
+#: templates/courses.html:13
+msgid "Course Title"
+msgstr ""
+
+#: templates/courses.html:14
+msgid "Description"
+msgstr ""
+
+#: templates/courses.html:15
+msgid "Actions"
+msgstr ""
+
+#: templates/courses.html:22
+msgid "Loading"
+msgstr ""
+
+#: templates/courses.html:24
+msgid "Loading courses"
+msgstr ""
+
+#: templates/courses.html:36
+msgid "No courses available"
+msgstr ""
+
+#: templates/courses.html:37
+msgid "Check back later for new courses"
+msgstr ""
+
+#: templates/courses.html:39
+msgid "Refresh"
+msgstr ""
+
+#: templates/courses.html:47
+msgid "Enroll"
+msgstr ""
+
+#: templates/courses.html:48 templates/dashboard.html:26
+msgid "Unenroll"
+msgstr ""
+
+#: templates/courses.html:49 templates/dashboard.html:47
+msgid "Are you sure you want to unenroll?"
+msgstr ""
+
+#: templates/courses.html:50
+msgid "Error enrolling in course"
+msgstr ""
+
+#: templates/courses.html:51 templates/dashboard.html:48
+msgid "Error unenrolling from course"
+msgstr ""
+
+#: templates/courses.html:52
+msgid "You must be logged in to view courses."
+msgstr ""
+
+#: templates/courses.html:53
+msgid "Error loading courses."
+msgstr ""
+
+#: templates/dashboard.html:2
+msgid "Dashboard - LearnHub"
+msgstr ""
+
+#: templates/dashboard.html:9 templates/index.html:3
+msgid "Welcome"
+msgstr ""
+
+#: templates/dashboard.html:11
+msgid "Logout"
+msgstr ""
+
+#: templates/dashboard.html:16
+msgid "Your Enrolled Courses"
+msgstr ""
+
+#: templates/dashboard.html:36
+msgid "You are not enrolled in any courses yet."
+msgstr ""
+
+#: templates/dashboard.html:38
+msgid "Browse Courses"
+msgstr ""
+
+#: templates/index.html:7
+msgid "Welcome to Student Course Portal"
+msgstr ""
+
+#: templates/index.html:8
+msgid "Your gateway to academic excellence and course management"
+msgstr ""
+
+#: templates/index.html:10
+msgid ""
+"Register now to explore available courses and manage your academic "
+"journey."
+msgstr ""
+
+#: templates/index.html:14
+msgid "Why Choose Our Portal?"
+msgstr ""
+
+#: templates/index.html:16
+msgid "User-friendly interface"
+msgstr ""
+
+#: templates/index.html:17
+msgid "Real-time course enrollment"
+msgstr ""
+
+#: templates/index.html:18
+msgid "Secure student profiles"
+msgstr ""
+
+#: templates/index.html:19
+msgid "Responsive design for all devices"
+msgstr ""
+
+#: templates/layout.html:6
+msgid "Student Portal"
+msgstr ""
+
+#: templates/layout.html:14
+msgid "LearnHub"
+msgstr ""
+
+#: templates/layout.html:21 templates/register.html:3
+#: templates/register.html:45
+msgid "Register"
+msgstr ""
+
+#: templates/layout.html:27
+msgid "Courses"
+msgstr ""
+
+#: templates/layout.html:53
+msgid "© 2025 LearnHub. All rights reserved."
+msgstr ""
+
+#: templates/login.html:8
+msgid "Welcome Back"
+msgstr ""
+
+#: templates/login.html:33
+msgid "Do not have an account?"
+msgstr ""
+
+#: templates/login.html:34
+msgid "Register here"
+msgstr ""
+
+#: templates/register.html:7
+msgid "Create an Account"
+msgstr ""
+
+#: templates/register.html:13
+msgid "Full Name"
+msgstr ""
+
+#: templates/register.html:37
+msgid "Confirm Password"
+msgstr ""
+
+#: templates/register.html:50
+msgid "Already have an account?"
+msgstr ""
+
+#: templates/register.html:50
+msgid "Login here"
+msgstr ""
+

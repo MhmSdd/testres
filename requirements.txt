@@ -1,0 +1,13 @@
+Flask
+Flask-SQLAlchemy
+Flask-Babel
+Flask-WTF
+Flask-Session
+Flask-Caching
+SQLAlchemy
+Jinja2
+Werkzeug
+redis
+gunicorn
+requests
+email_validator
